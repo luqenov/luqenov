@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <a href="https://discord.com/users/279448683672502274"><img src="https://img.shields.io/badge/Discord-bbpltergeist-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://discord.com/users/279448683672502274"><img src="https://img.shields.io/badge/Discord-bbpltergiest-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="mailto:bbpltergiest@proton.me"><img src="https://img.shields.io/badge/Email-bbpltergiest@proton.me-2F2F2F?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"></a>
 </div>
 
