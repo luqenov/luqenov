@@ -1,7 +1,6 @@
 <h1 align="center">🕸️ Echoes of Silence</h1>
 
 <p align="center">
-  <i> learning · addicted · no noise</i><br><br>
   Security | Reverse Engineering | Scripts | Privacy
 </p>
 
