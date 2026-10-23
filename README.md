@@ -1,4 +1,12 @@
-<h1 align="center">🕸️ Echoes of Silence</h1>
+<p align="center">
+  <a href="https://discord.com/users/279448683672502274">
+    <img src="./assets/88x31.png" title="88x31 button" alt="88x31 button">
+  </a>
+</p>
+
+![img](./assets/alicekuonji.jpeg)
+
+<!--<h1 align="center">🕸️ Echoes of Silence</h1>
 
 <p align="center">
   Security | Reverse Engineering | Scripts | Privacy
@@ -12,4 +20,4 @@
 <div align="center">
   <a href="https://raw.githubusercontent.com/bbpltergiest/bbpltergiest/refs/heads/main/info/public_key"><img src="https://img.shields.io/badge/🔑_SSH-Public_Key-00A3E0?style=for-the-badge" alt="SSH Key"></a>
   <a href="https://raw.githubusercontent.com/bbpltergiest/bbpltergiest/refs/heads/main/info/public_key.asc"><img src="https://img.shields.io/badge/🔐_GPG-Public_Key-C8312F?style=for-the-badge" alt="GPG Key"></a>
-</div>
+</div>-->
